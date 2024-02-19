@@ -1,0 +1,19 @@
+# Install these packages using pip install <package name>
+# System working on Linux Ubuntu 18.04
+python=3.8
+ipykernel
+numpy
+pandas
+seaborn
+matplotlib
+plot_metric
+tqdm
+tensorflow=2.11.0
+tensorflow-gpu=2.11.0
+scikit-learn
+scipy
+keras-tcn
+
+# Install torch
+torch
+# using pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118

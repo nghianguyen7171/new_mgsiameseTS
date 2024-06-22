@@ -42,3 +42,5 @@
 
 - Get prediction and evaluation (refer 'eval.py')
 
+## 4. Publication:
+Nguyen, T. N., Kim, S. H., Kho, B. G., & Yang, H. J. (2024). Multi-Gradient Siamese Temporal Model for the Prediction of Clinical Events in Rapid Response Systems. IEEE Intelligent Systems. DOI: 10.1109/MIS.2024.3408290
